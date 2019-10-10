@@ -1,4 +1,3 @@
-package thread_code;
 
 import java.io.File;
 import java.io.FileReader;
